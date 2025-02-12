@@ -55,10 +55,3 @@ You can modify the following parameters within the script:
 
 ---
 
-## 🛠 Requirements
-
-✅ Windows operating system  
-✅ PowerShell 5.1 or later  
-
----
-
