@@ -25,12 +25,12 @@ git clone https://github.com/onurogut/windows_scripts.git
 cd windows_scripts
 ```
 
-### 2️⃣ Set PowerShell Execution Policy:
+### 2️⃣ Set PowerShell Execution Policy: (If needed)
 ```powershell
 Set-ExecutionPolicy Unrestricted -Scope Process
 ```
 
-### 3️⃣ Run the Script:
+### 3️⃣ Run the Script: (Requires Admin Privilige to Sign-off users)
 ```powershell
 .\signoff_users.ps1
 ```
