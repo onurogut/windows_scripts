@@ -21,7 +21,7 @@ This PowerShell script detects user sessions that have been disconnected for a s
 
 ### 1️⃣ Clone the Repository:
 ```powershell
-git clone https://github.com/user/windows_scripts.git
+git clone https://github.com/onurogut/windows_scripts.git
 cd windows_scripts
 ```
 
