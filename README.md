@@ -2,7 +2,7 @@
 
 This repository contains automated PowerShell scripts for Windows systems.
 
-## 📌 signoff_users.ps1 - Automatic Session Sign-off Script
+## 📌 signoff_disconnected_users_with_exceptions.ps1 - Automatic Session Sign-off Script
 
 This PowerShell script detects user sessions that have been disconnected for a specified timeout period and automatically logs them off. You can specify users to exclude from this process and log all operations for tracking purposes.
 
